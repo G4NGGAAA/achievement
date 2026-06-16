@@ -1,1 +1,2 @@
 tutorial achievement.
+singkat
